@@ -1,8 +1,8 @@
 # Hi there  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"><a href="https://twitter.com/Imaqtpotatoe" target="_blank">
-  <img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/color/344/twitter-squared.png" />
+  <img align="left" alt="Twitter" width="44px" src="https://img.icons8.com/color/344/twitter-squared.png" />
 </a>
 <a href="https://www.linkedin.com/in/souinia-ayoub" target="_blank">
-  <img align="left" alt="Linkedin" width="22px" src="https://img.icons8.com/color/344/linkedin.png" />
+  <img align="left" alt="Linkedin" width="44px" src="https://img.icons8.com/color/344/linkedin.png" />
 </a>
 <br /><br />
 
