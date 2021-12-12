@@ -9,7 +9,6 @@
 <div align="center">
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=asouinia)](https://github.com/souiniaayoub)
 </div>
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=false&login=asouinia)](https://github.com/souiniaayoub)
  <br/>
  <br/>
  <br/>
