@@ -6,17 +6,27 @@
   <img align="left" alt="Linkedin" width="44px" src="https://img.icons8.com/color/344/linkedin.png" />
 </a>
 <br /><br />
-
+<div align="center">
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=asouinia)](https://github.com/souiniaayoub)
+</div>
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=false&login=asouinia)](https://github.com/souiniaayoub)
-<br />
-<a href="https://github.com/souiniaayoub/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souiniaayoub&layout=compact&theme=synthwave" alt="Ayoub's most used languages" />
-</a>
-<a href="https://github.com/souiniaayoub/">
-  <img align="center" height=200 width=450 src="https://github-readme-stats.vercel.app/api?username=souiniaayoub&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true&hide=stars" alt="Ayoub's Stats" />
-</a>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+  <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=souiniaayoub&show_icons=true&locale=en&layout=compact&theme=prussian" alt="souiniaayoub" /></div>
+<br/>
+<br/>
+<div align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=souiniaayoub&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="souiniaayoub" /></div>
+<br/>
+<br/>
+<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souiniaayoub&show_icons=true&locale=en&theme=prussian" alt="souiniaayoub" /></div>
+<br/>
+<br/>
+<br/>
 
-
+<br/>
+<br/>
 <!--
 **0x1e0000/0x1e0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
