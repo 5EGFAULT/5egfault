@@ -6,7 +6,9 @@
   <img align="left" alt="Linkedin" width="44px" src="https://img.icons8.com/color/344/linkedin.png" />
 </a>
 <br /><br />
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=asouinia)](https://github.com/souiniaayoub)
+  <div align="center">
+ <img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=asouinia)](https://github.com/souiniaayoub" alt="1337 profile card" />
+  </div>
  <br/>
  <br/>
  <br/>
