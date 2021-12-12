@@ -7,7 +7,7 @@
 </a>
 <br /><br />
   <div align="center">
- <img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=asouinia)](https://github.com/souiniaayoub" alt="1337 profile card" />
+ <img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=asouinia" alt="1337 profile card" />
   </div>
  <br/>
  <br/>
