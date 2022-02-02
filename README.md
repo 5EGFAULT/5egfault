@@ -1,3 +1,6 @@
+  <div align="center">
+ <img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=asouinia" alt="1337 profile card" />
+  </div>
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/souinia-ayoub) 
 
